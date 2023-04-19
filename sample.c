@@ -2,5 +2,6 @@
 
 int main() {
 	printf("Hello Wolrd in Git!");
-	printf("Neil Alfred Javerle");		
+	printf("Neil Alfred Javerle");
+	printf("Adi Estrella");		
 }
