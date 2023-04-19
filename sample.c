@@ -2,7 +2,7 @@
 
 int main() {
 
-	printf("Hello Wolrd in Git!");		
+	printf("Hello Wolrd in Git!");
 	printf("I am charlesss");
 	printf("Neil Alfred Javerle");
 	printf("Adi Estrella");		
