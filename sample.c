@@ -6,6 +6,7 @@ int main() {
 	printf("I am charlesss");
 	printf("Neil Alfred Javerle");
 	printf("Adi Estrella");	
-	priftf("Staging")
+	priftf("Staging");	
+	printf("Here at Staging")
 	
 }
